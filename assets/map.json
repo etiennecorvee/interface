@@ -1,0 +1,28 @@
+[
+  {
+    "nature": "MapSpace",
+    "name": "Kitchen",
+    "rowPct": 5,
+    "colPct": 5,
+    "widthPct": 50,
+    "heightPct": 50,
+    "shapeType": "Basic",
+    "shapeShape": "Rectangle",
+    "shapeCornerRadius": 5,
+    "indexInGeoArray": 0,
+    "textPosition": 0
+  },
+  {
+    "nature": "MapSpace",
+    "name": "CookingArea",
+    "rowPct": 6,
+    "colPct": 6,
+    "widthPct": 25,
+    "heightPct": 25,
+    "shapeType": "Basic",
+    "shapeShape": "Rectangle",
+    "shapeCornerRadius": 10,
+    "indexInGeoArray": 1,
+    "textPosition": 1
+  }
+]

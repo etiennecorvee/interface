@@ -1,0 +1,13 @@
+[
+    {
+      "nature": "Sensor",
+      "name": "M002",
+	    "rowPct": 80,
+      "colPct": 75,
+      "shapeType": "Basic",
+      "shapeShape": "Pentagon",
+      "shapeCornerRadius": 0,
+      "indexInGeoArray": 0,
+      "textPosition": 0
+    }
+]

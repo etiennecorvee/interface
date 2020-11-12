@@ -1,0 +1,38 @@
+{
+  "mapspaces" : [ {
+    "colPct" : 5,
+    "heightPct" : 50,
+    "indexInGeoArray" : 0,
+    "name" : "Kitchen",
+    "nature" : "MapSpace",
+    "rowPct" : 5,
+    "shapeCornerRadius" : 5,
+    "shapeShape" : "Rectangle",
+    "shapeType" : "Basic",
+    "textPosition" : 0,
+    "widthPct" : 50
+  }, {
+    "colPct" : 6,
+    "heightPct" : 25,
+    "indexInGeoArray" : 1,
+    "name" : "CookingArea",
+    "nature" : "MapSpace",
+    "rowPct" : 6,
+    "shapeCornerRadius" : 10,
+    "shapeShape" : "Rectangle",
+    "shapeType" : "Basic",
+    "textPosition" : 1,
+    "widthPct" : 25
+  } ],
+  "sensors" : [ {
+    "colPct" : 75,
+    "indexInGeoArray" : 0,
+    "name" : "M002",
+    "nature" : "Sensor",
+    "rowPct" : 80,
+    "shapeCornerRadius" : 0,
+    "shapeShape" : "Pentagon",
+    "shapeType" : "Basic",
+    "textPosition" : 0
+  } ]
+}
